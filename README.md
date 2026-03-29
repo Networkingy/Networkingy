@@ -11,8 +11,6 @@ Hi there! I'm Moamen Nabil 👋
 
 ## 🚀 About Me
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
-
 A passionate Network and security Engineer. 
 Worked with different vendors appliances such as CISCO, HUAWEI and also security appliances such as FORTI, ASA.
 
