@@ -1,5 +1,6 @@
 
-Hi there! I'm Moamen Nabil 👋
+Hi there! I'm Moamen Nabil
+<img src="https://i.gifer.com/3q63.gif" alt="waving">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=2563EB&width=435&lines=Network-Security🔐;NETWOR👑y;choclate+Lover)](https://git.io/typing-svg)
 
